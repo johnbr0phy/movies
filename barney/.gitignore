@@ -1,0 +1,7 @@
+node_modules/
+out/
+deliverables/
+site/
+audio/lib
+audio/cache/
+__pycache__/
